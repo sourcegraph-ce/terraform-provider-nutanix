@@ -2,7 +2,7 @@ package nutanix
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	"github.com/terraform-providers/terraform-provider-nutanix/utils"
