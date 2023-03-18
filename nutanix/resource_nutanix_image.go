@@ -3,7 +3,7 @@ package nutanix
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"path/filepath"
 	"strings"
 	"time"
