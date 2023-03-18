@@ -1,7 +1,7 @@
 package nutanix
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sort"
 )
 
